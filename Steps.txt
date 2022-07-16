@@ -1,0 +1,31 @@
+1.Hooks
+-> useState()
+-> useEffect()
+
+2. Fetching data
+3. Props
+-> Destructring
+-> Prameters
+4. Prop Drilling
+5. Destructuring
+
+//props
+<Book title="My Book"/>
+
+function Book(props){
+	const data = props
+	const bookTitle = data.title
+}
+
+6. React Router
+
+
+
+// Netflix Clone Steps
+
+1.TMDB API implementation
+2.Create React App (Netflix Clone)
+3.Setup Firebase Hosting 
+4.Get all the movies
+->Install axios (npm i axios)
+5.Build Rows
